@@ -29,7 +29,9 @@ I'm Mehemmed, im working on Front end developing. I am sharing my projects in he
 ##
 
 <h2 align="center">My GitHub Stats :bar_chart: </h2>
-#
+
+###
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bayramzade066&show_icons=true&theme=tokyonight" width="450" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayramzade066&layout=compact&theme=tokyonight" height="180">
