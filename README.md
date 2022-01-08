@@ -1,14 +1,14 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Adem, im working on Android application developing. I am sharing my projects in here. I usually using Kotlin programming language for Android projects. 
+I'm Mehemmed, im working on Front end developing. I am sharing my projects in here. I usually use Js, Sass, HTML5, BS for front end programming.. 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aticiadem&color=green" alt="aticiadem :: Profile Stats"></a>
-<a href="mailto:adematicis41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adematicis41@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/adematici/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@adematici-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/adematiciii/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adematiciii-black?style=flat-square&logo=instagram"></a>
+<img src="https://komarev.com/ghpvc/?username=Bayramzade066&color=green" alt="aticiadem :: Profile Stats"></a>
+<a href="mailto:bayramzade.313@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bayramzade.313@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/bayramzade-mehemmed-275ba6217/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bayramzade-mehemmed-275ba6217-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.instagram.com/bayramzade.66/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bayramzade.66-black?style=flat-square&logo=instagram"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
