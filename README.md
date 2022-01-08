@@ -1,7 +1,8 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Mehemmed, im working on Front end developing. I am sharing my projects in here. I usually use Js, Sass, React, HTML5, BS for front end programming.. 
+I'm Mehemmed, im working on Front end developing. I am sharing my projects in here. As a creative programmer I am happy to spend most of my time writing code. I think I will improve myself in this chapter.. 
+
 ##
  <a href="#" target="_blank" align="center"><img src="https://images8.alphacoders.com/115/1156488.png" title="Portfolio" /> </a>
 
@@ -29,9 +30,6 @@ I'm Mehemmed, im working on Front end developing. I am sharing my projects in he
 ##
 
 <h2 align="center">My GitHub Stats :bar_chart: </h2>
-
-###
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bayramzade066&show_icons=true&theme=tokyonight" width="450" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayramzade066&layout=compact&theme=tokyonight" height="180">
