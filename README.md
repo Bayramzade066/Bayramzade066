@@ -7,7 +7,7 @@ I'm Mehemmed, im working on Front end developing. I am sharing my projects in he
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Bayramzade066&color=green" alt="aticiadem :: Profile Stats"></a>
 <a href="mailto:bayramzade.313@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bayramzade.313@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/bayramzade-mehemmed-275ba6217/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bayramzade-mehemmed-275ba6217-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/bayramzade-mehemmed-275ba6217/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bayramzade066-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/bayramzade.66/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bayramzade.66-black?style=flat-square&logo=instagram"></a>
 </p>
 
