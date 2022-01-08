@@ -1,7 +1,7 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Mehemmed, im working on Front end developing. I am sharing my projects in here. As a creative programmer I am happy to spend most of my time writing code. I think I will improve myself in this chapter.. 
+I'm Mehemmed, i am working on Front end developing. I am sharing my projects in here. As a creative programmer I am happy to spend most of my time writing code. I think I will improve myself in this chapter.. 
 
 ##
  <a href="#" target="_blank" align="center"><img src="https://images8.alphacoders.com/115/1156488.png" title="Portfolio" /> </a>
