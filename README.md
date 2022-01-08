@@ -3,7 +3,7 @@
 
 I'm Mehemmed, im working on Front end developing. I am sharing my projects in here. I usually use Js, Sass, HTML5, BS for front end programming.. 
 <h3 align="center">My Portfolio <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/U%2B2193.svg" /></h3>
- <a href="#" target="_blank"><img height="500"  width="100%" src="https://images.unsplash.com/photo-1604964432806-254d07c11f32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80" title="Portfolio" /> </a>
+ <a href="#" target="_blank"><img   width="100%" src="https://images.unsplash.com/photo-1604964432806-254d07c11f32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80" title="Portfolio" /> </a>
 
 
 <h3 align="center">Connect with me:</h3>
