@@ -7,7 +7,7 @@ I'm Mehemmed, i am working on Front end developing. I am sharing my projects in 
  <a href="#" target="_blank" align="center"><img src="https://images8.alphacoders.com/115/1156488.png" title="Portfolio" /> </a>
 
 <h3 align="center">My Portfolio <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/U%2B2193.svg" /></h3>
-<h3 align="center"> <a href="https://bayramzade066.github.io/Portfolio/template/index.html" target="_blank">Click me </a></h3>
+<h3 align="center"> <a href="https://bayramzade066.github.io" target="_blank">Click me </a></h3>
 
 ##
 
