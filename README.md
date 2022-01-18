@@ -4,7 +4,7 @@
 I'm Mehemmed, i am working on Front end developing. I am sharing my projects in here. As a creative programmer I am happy to spend most of my time writing code. I think I will improve myself in this chapter.. 
 
 ##
- <a href="#" target="_blank" align="center"><img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" title="Portfolio" /> </a>
+ <a href="#" target="_blank" align="center" object-fit="cover" height="80%"><img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" title="Portfolio" /> </a>
 
 <h3 align="center">My Portfolio <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/U%2B2193.svg" /></h3>
 <h3 align="center"> <a href="https://bayramzade066.github.io" target="_blank">Click me </a></h3>
