@@ -1,5 +1,5 @@
 
-### Hi, Welcome To My Github Profile 👋 👋 👋
+### Hi, Welcome To My Github Profile 👋
 
 I'm Muhemmed, i am working on Front end developing. I am sharing my projects in here. As a creative programmer I am happy to spend most of my time writing code. I think I will improve myself in this chapter...
 
